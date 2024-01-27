@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "eamodio.gitlens",
+        "aaron-bond.better-comments",
+        "davidanson.vscode-markdownlint",
+        "redhat.vscode-yaml",
+        "bierner.github-markdown-preview"
+    ]
+}
